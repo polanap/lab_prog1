@@ -1,6 +1,5 @@
 // вариант 512
 import static java.lang.Math.*;
-import static java.util.Arrays.*;
 
 public class Main {
     public static void main(String[] args) {
